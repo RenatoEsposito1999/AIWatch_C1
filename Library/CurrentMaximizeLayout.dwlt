@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1253
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 12004, y: 14042}
+  m_MinSize: {x: 678, y: 471}
+  m_MaxSize: {x: 12003, y: 14021}
   vertical: 1
-  controlID: 5243
+  controlID: 294
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 755
-  m_MinSize: {x: 679, y: 221}
-  m_MaxSize: {x: 12004, y: 4021}
+  m_MinSize: {x: 678, y: 221}
+  m_MaxSize: {x: 12003, y: 4021}
   vertical: 0
-  controlID: 5244
+  controlID: 295
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4efbffff
+      m_ExpandedIDs: 4cfbffffae400000e44a0000724c00006c5700005c5a0000ba6100007862000030630000626300006c6300008863000090630000bc630000da630000e46300004264000066640000b464000002650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -284,9 +284,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -20.743513, y: 0.434368, z: -5.920022}
+    m_Target: {x: -19.01833, y: -3.6073258, z: -17.546478}
     speed: 2
-    m_Value: {x: -20.743513, y: 0.434368, z: -5.920022}
+    m_Value: {x: -19.01833, y: -3.6073258, z: -17.546478}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,13 +333,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.015841324, y: -0.82281834, z: 0.022959542, w: -0.56763035}
+    m_Target: {x: -0.06314674, y: -0.90345794, z: 0.14292873, w: -0.39921385}
     speed: 2
-    m_Value: {x: -0.015841227, y: -0.82281333, z: 0.022959402, w: -0.5676269}
+    m_Value: {x: -0.06314598, y: -0.9034471, z: 0.14292702, w: -0.39920905}
   m_Size:
-    m_Target: 7.3446703
+    m_Target: 7.8045673
     speed: 2
-    m_Value: 7.3446703
+    m_Value: 7.8045673
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -682,8 +682,8 @@ MonoBehaviour:
     y: 0
     width: 368
     height: 755
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -720,7 +720,7 @@ MonoBehaviour:
     m_CachedPref: 581
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 25622
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
@@ -745,8 +745,8 @@ MonoBehaviour:
     y: 755
     width: 2560
     height: 498
-  m_MinSize: {x: 230, y: 271}
-  m_MaxSize: {x: 10000, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 12}
@@ -824,14 +824,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/cvprlabalfredopetrosino/Documents/GitHub/AIWatch---Unity3D
+  m_LastProjectPath: /Users/cvprlabalfredopetrosino/Desktop/AIWatch
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 92680000
-    m_LastClickedID: 26770
-    m_ExpandedIDs: 000000004668000000ca9a3b
+    m_SelectedIDs: 48680000
+    m_LastClickedID: 26696
+    m_ExpandedIDs: 000000003a68000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -859,7 +859,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004668000000ca9a3b
+    m_ExpandedIDs: 000000003a68000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -884,9 +884,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 16640000
+    m_LastClickedInstanceID: 25622
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000463e0000000000001c73000018720000ca9700001ec800008c110000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C2A7452B-89F5-4D6A-BD90-E62383BC8230}</ProjectGuid>
+    <ProjectGuid>{A2153B96-4F09-0CD9-FF1F-72003250F99E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,17 +56,17 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Skeleton.cs" />
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/handleController.cs" />
+    <Compile Include="Assets/Scripts/People.cs" />
+    <Compile Include="Assets/Scripts/Frame.cs" />
     <Compile Include="Assets/Scripts/FPS.cs" />
     <Compile Include="Assets/Scripts/AvatarController.cs" />
     <Compile Include="Assets/Scripts/FileManager.cs" />
     <Compile Include="Assets/Scripts/TransparentRoofController.cs" />
     <Compile Include="Assets/Scripts/DoorController.cs" />
     <Compile Include="Assets/Scripts/WindowController.cs" />
-    <Compile Include="Assets/Scripts/Skeleton.cs" />
-    <Compile Include="Assets/Scripts/People.cs" />
-    <Compile Include="Assets/Scripts/Frame.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
