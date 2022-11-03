@@ -278,7 +278,7 @@ public class AvatarController : MonoBehaviour
         ConsumerConfig conf = new ConsumerConfig
         {
             GroupId = "consumer-group-",
-            BootstrapServers = "192.168.160.195:9092",
+            BootstrapServers = "192.168.160.195:29092",
             AutoOffsetReset = AutoOffsetReset.Earliest
         };
 
