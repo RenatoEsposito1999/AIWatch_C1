@@ -21,10 +21,12 @@ The goal of module C1 is to the development of a virtual environment replicating
 ***
 ![architettura_di_comunicazione](https://user-images.githubusercontent.com/53092291/203617948-1c0f1736-ca8b-4d35-9bc2-3db1e3901fb4.png)
 
-## Instructions 🚀
+# Instructions 🚀
 ***
+##Requirements
+- [Unity 2020.3.36f1](https://unity3d.com/get-unity/download/archive)
+- 
 <ul><strong>Requirements</strong> </ul> 
-  <li>Unity 2020.3.36f1 (https://unity3d.com/get-unity/download/archive)</li>
   <li>Visual Studio or any other editor (https://visualstudio.microsoft.com/it/downloads/)</li>
   <li>Confluent Kafka Library (read below)</li>
   <li>(Optional) GitHub Desktop https://desktop.github.com/</li>
