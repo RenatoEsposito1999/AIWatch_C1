@@ -21,17 +21,15 @@ The goal of module C1 is to the development of a virtual environment replicating
 ***
 ![architettura_di_comunicazione](https://user-images.githubusercontent.com/53092291/203617948-1c0f1736-ca8b-4d35-9bc2-3db1e3901fb4.png)
 
-# Instructions 🚀
+## Instructions 🚀
 ***
-##Requirements
+## Requirements
 - [Unity 2020.3.36f1](https://unity3d.com/get-unity/download/archive)
-- 
-<ul><strong>Requirements</strong> </ul> 
-  <li>Visual Studio or any other editor (https://visualstudio.microsoft.com/it/downloads/)</li>
-  <li>Confluent Kafka Library (read below)</li>
-  <li>(Optional) GitHub Desktop https://desktop.github.com/</li>
-<br><br>
+- [Visual Studio or any other editor](https://visualstudio.microsoft.com/it/downloads/)
+- [Confluent Kafka Library]
+- [(Optional) GitHub Desktop](https://desktop.github.com/)
 
+ 
 <ul><strong>Procedure</strong> </ul>
   <li>Confluent Kafka: in order to install the library it is necessary to create a new project (separate from Unity) and download "Confluent.Kafka" from the NuGet package manager (project link: https://github.com/confluentinc/confluent-kafka -dotnet /). Some files (.dll) are now visible in the project folder (usually the Packages folder, but may change depending on the version of the IDE) <br>
   copy these files and return to the project repository, go to
