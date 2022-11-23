@@ -14,7 +14,7 @@ The goal of module C1 is to the development of a virtual environment replicating
 ## Demo AI WATCH 💻
 ***
 - [Example video of running the application. The avatar turns red when the B1 form model reports abnormal behavior.] 
-
+COMING SOON...
 
 ## System Structure 🏛
 ***
@@ -46,7 +46,7 @@ N.B: when it is no longer necessary to carry out simulations, it is recommended 
 ***
 - [Eclipse Ditto](https://www.eclipse.org/ditto/)
 - [Kafka](https://kafka.apache.org/)
-- [C# Confluent Kafka library]([https://github.com/confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-dotnet))
+- [C# Confluent Kafka library]([https://github.com/confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-dotnet)
 - [Confluent](https://www.confluent.io/)
 - [Unity](https://unity.com/)
 - [C#](https://learn.microsoft.com/it-it/dotnet/csharp/)
