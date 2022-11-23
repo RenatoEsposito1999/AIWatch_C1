@@ -40,6 +40,7 @@ The goal of module C1 is to the development of a virtual environment replicating
   <li>Simulation: if the chambers are not yet present, it is possible to create tests simply by walking around the environment (using the W A S D keys) and at the end of the operation press the "8" key, it will be created in the folder “Assets” a “data.json” file that must be sent (via e-mail or USB) to those involved in digital twin / anomaly detection. </li>
 N.B: when it is no longer necessary to carry out simulations, it is recommended to comment / delete the DataMemorization function.
 ## Tools 🛠
+***
 - [Eclipse Ditto](https://www.eclipse.org/ditto/)
 - [Kafka](https://kafka.apache.org/)
 - [C# Confluent Kafka library]([https://github.com/confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-dotnet))
