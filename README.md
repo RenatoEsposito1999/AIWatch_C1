@@ -13,7 +13,8 @@ The goal of module C1 is to the development of a virtual environment replicating
 
 ## Demo AI WATCH 💻
 ***
-- [Video Unity and anomaly (when avatar color = red) output] 
+- [Example video of running the application. The avatar turns red when the B1 form model reports abnormal behavior.] 
+
 
 ## System Structure 🏛
 ***
@@ -41,18 +42,14 @@ N.B: when it is no longer necessary to carry out simulations, it is recommended 
 ## Tools 🛠
 - [Eclipse Ditto](https://www.eclipse.org/ditto/)
 - [Kafka](https://kafka.apache.org/)
-- [Python Confluent Kafka library](https://github.com/confluentinc/confluent-kafka-python)
+- [C# Confluent Kafka library]([https://github.com/confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-dotnet))
 - [Confluent](https://www.confluent.io/)
-- [Unity]()
-
-
-
+- [Unity](https://unity.com/)
+- [C#](https://learn.microsoft.com/it-it/dotnet/csharp/)
 
 
 ## License ☢️
-AI Watch B1 is licensed under the Apache License, Version 2.0. Copyright 2022. Please, see the [license](https://github.com/Luruu/AI_Watch_B1/blob/main/LICENSE).
-
-
+AI Watch C1 is licensed under the Apache License, Version 2.0. Copyright 2022. Please, see the [license](https://github.com/Luruu/AI_Watch_B1/blob/main/LICENSE).
 
 ## Contacts 🪪
 - [mail] renato [ dot ] esposito001 [ at ] studenti [ dot ] uniparthenope [ dot ] it (you can write to me in english or italian).
@@ -62,7 +59,7 @@ AI Watch B1 is licensed under the Apache License, Version 2.0. Copyright 2022. P
 ```
     @report{AIWatch_C1,
         author = {Luca Rubino},
-        title = {Streaming anomaly detection on streaming data given by Digital Twin through Eclipse Ditto using Apache Kafka​},
+        title = {Reproducing a virtual environment in Unity and creating a system that integrates real information within the VR environment.},
         institution = {University of Naples, Parthenope},
         year = {2022}
     }
