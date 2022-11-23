@@ -1,7 +1,26 @@
-# AIWatch---Unity3D
+# About AIWatch
+***
+AIWatch is a university research project with is intended to create a real-world video surveillance system that is capable of creating a digital twin for each human detected by the system and detect and report any abnormal behavior on them. Specifically, it wants to create a system in which from cameras placed in the real world, information about the humans in the scene is obtained, including:
+- Position and orientation.
+- Actions.
+This information following processing, through which digital twins are created, is transmitted to the virtual environment within which it is then reproduced.
 
-<h1>Instructions for starting the project</h1>
-Curated by Renato Esposito <br>
+# About the C1 Module
+***
+AIWatch is a modular project for which three modules are currently planned: A1, B1 and C1.
+The goal of module C1 is to the development of a virtual environment replicating the Computer Vision and Pattern Recognition laboratory of the Department of Science and Technology and the north wing fourth floor corridor leading to the laboratory itself.  Subsequently, the module focused on the analysis and development of a system that is capable of receiving, processing and integrating information from the real world into the virtual environment.  
+
+
+## Demo AI WATCH 💻
+***
+- [Video Unity and anomaly (when avatar color = red) output] 
+
+## System Structure 🏛
+***
+![architettura_di_comunicazione](https://user-images.githubusercontent.com/53092291/203617948-1c0f1736-ca8b-4d35-9bc2-3db1e3901fb4.png)
+
+## Instructions 🚀
+***
 <ul><strong>Requirements</strong> </ul> 
   <li>Unity 2020.3.36f1 (https://unity3d.com/get-unity/download/archive)</li>
   <li>Visual Studio or any other editor (https://visualstudio.microsoft.com/it/downloads/)</li>
@@ -19,3 +38,42 @@ Curated by Renato Esposito <br>
   store the data for any simulations (explanation in the next point), open each window, change the camera, jump and return to the plane (after the jump).
   <li>Simulation: if the chambers are not yet present, it is possible to create tests simply by walking around the environment (using the W A S D keys) and at the end of the operation press the "8" key, it will be created in the folder “Assets” a “data.json” file that must be sent (via e-mail or USB) to those involved in digital twin / anomaly detection. </li>
 N.B: when it is no longer necessary to carry out simulations, it is recommended to comment / delete the DataMemorization function.
+## Tools 🛠
+- [Eclipse Ditto](https://www.eclipse.org/ditto/)
+- [Kafka](https://kafka.apache.org/)
+- [Python Confluent Kafka library](https://github.com/confluentinc/confluent-kafka-python)
+- [Confluent](https://www.confluent.io/)
+- [Unity]()
+
+
+
+
+
+## License ☢️
+AI Watch B1 is licensed under the Apache License, Version 2.0. Copyright 2022. Please, see the [license](https://github.com/Luruu/AI_Watch_B1/blob/main/LICENSE).
+
+
+
+## Contacts 🪪
+- [mail] renato [ dot ] esposito001 [ at ] studenti [ dot ] uniparthenope [ dot ] it (you can write to me in english or italian).
+
+
+## Citation 📖
+```
+    @report{AIWatch_C1,
+        author = {Luca Rubino},
+        title = {Streaming anomaly detection on streaming data given by Digital Twin through Eclipse Ditto using Apache Kafka​},
+        institution = {University of Naples, Parthenope},
+        year = {2022}
+    }
+```
+
+## Supervisor
+- [Prof. Francesco Camastra](https://www.researchgate.net/profile/Francesco-Camastra), Associate Professor of Computer Science, at Science and Technology Dept.,  [University of Naples Parthenope](https://www.uniparthenope.it/).
+
+
+## Other modules
+- [A1 - Tracker](https://github.com/dennewbie/AI_Watch_A1)
+- [B1 - Anomaly Detection + Digital Twin](https://github.com/Luruu/AI_Watch_B1)
+
+a.a. 2021/2022
