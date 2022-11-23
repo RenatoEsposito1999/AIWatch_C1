@@ -54,7 +54,7 @@ N.B: when it is no longer necessary to carry out simulations, it is recommended 
 
 
 ## License ☢️
-AI Watch C1 is licensed under the Apache License, Version 2.0. Copyright 2022. Please, see the [license](https://github.com/Luruu/AI_Watch_B1/blob/main/LICENSE).
+AI Watch C1 is licensed under the Apache License, Version 2.0. Copyright 2022. Please, see the [license](https://github.com/RenatoEsposito1999/AIWatch_C1/blob/main/LICENSE).
 
 ## Contacts 🪪
 - [mail] renato [ dot ] esposito001 [ at ] studenti [ dot ] uniparthenope [ dot ] it (you can write to me in english or italian).
