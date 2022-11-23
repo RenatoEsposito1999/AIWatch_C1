@@ -39,6 +39,9 @@ The goal of module C1 is to the development of a virtual environment replicating
   store the data for any simulations (explanation in the next point), open each window, change the camera, jump and return to the plane (after the jump).
   <li>Simulation: if the chambers are not yet present, it is possible to create tests simply by walking around the environment (using the W A S D keys) and at the end of the operation press the "8" key, it will be created in the folder “Assets” a “data.json” file that must be sent (via e-mail or USB) to those involved in digital twin / anomaly detection. </li>
 N.B: when it is no longer necessary to carry out simulations, it is recommended to comment / delete the DataMemorization function.
+
+
+
 ## Tools 🛠
 ***
 - [Eclipse Ditto](https://www.eclipse.org/ditto/)
