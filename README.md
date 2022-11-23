@@ -14,7 +14,7 @@ The goal of module C1 is to the development of a virtual environment replicating
 ## Demo AI WATCH 💻
 ***
 - [Example video of running the application. The avatar turns red when the B1 form model reports abnormal behavior.]
-[![](https://markdown-videos.deta/youtube/SLqecnDKiSg)](https://youtu.be/SLqecnDKiSg)
+[![](https://markdown-videos.deta.dev/youtube/SLqecnDKiSg)](https://youtu.be/SLqecnDKiSg)
 
 ## System Structure 🏛
 ***
