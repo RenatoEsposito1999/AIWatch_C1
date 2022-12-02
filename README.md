@@ -60,7 +60,7 @@ AI Watch C1 is licensed under the Apache License, Version 2.0. Copyright 2022. P
 ## Citation 📖
 ```
     @report{AIWatch_C1,
-        author = {Luca Rubino},
+        author = {Renato Esposito},
         title = {Reproducing a virtual environment in Unity and creating a system that integrates real information within the VR environment.},
         institution = {University of Naples, Parthenope},
         year = {2022}
