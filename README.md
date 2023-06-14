@@ -15,11 +15,12 @@ The goal of module C1 is to the development of a virtual environment replicating
 ***
 - [Example video of running the application. The avatar turns red when the B1 form model reports abnormal behavior.]
 
-[![](https://markdown-videos.deta.dev/youtube/SLqecnDKiSg)](https://youtu.be/SLqecnDKiSg)
+[VIDEO DEMO](https://youtu.be/SLqecnDKiSg)
 
 ## System Structure 🏛
 ***
 ![architettura_di_comunicazione](https://user-images.githubusercontent.com/53092291/203617948-1c0f1736-ca8b-4d35-9bc2-3db1e3901fb4.png)
+
 
 ## Instructions 🚀
 ***
